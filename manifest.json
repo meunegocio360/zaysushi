@@ -36,10 +36,10 @@
    "src": "misc/icon16.png"
   }
  ],
- "theme_color": "#FFFFFF",
+ "name": "Zay Sushi - Tour Virtual 360°",
  "description": "Av. Diederichsen, 1153 - Vila Guarani, São Paulo - SP, 04310-000",
  "display": "fullscreen",
- "background_color": "#FFFFFF",
+ "theme_color": "#FFFFFF",
  "start_url": "index.htm",
- "name": "Zay Sushi - Tour Virtual 360°"
+ "background_color": "#FFFFFF"
 }
